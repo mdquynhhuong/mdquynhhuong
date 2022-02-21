@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Huoong Mai, based in Canada and I am a junior web developer
+- 👋 Hi, I’m Huong Mai, based in Canada and I am a junior web developer
 - 👀 I love coding for fun and have keen eyes on user experiences and accessibility. 
 - 🌱 My tech skills are HTML, CSS, JS, Restful API,etc. I love to learn new things everyday! 
 - 📫 You can reach me at mdquynhhuong@gmail.com or check out my website huongmai.ca 
